@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="SDGDark (4)" GUID="{0490050d-8b84-4d60-8893-6df52e16de5b}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="SDGDark (5)" GUID="{1d709302-2167-432b-8e52-1db35f45723f}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF222224" />
@@ -245,8 +245,8 @@
         <Foreground Type="CT_RAW" Source="FF608B4E" />
       </Color>
       <Color Name="regex - comment">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Background Type="CT_RAW" Source="FF949FA7" />
+        <Foreground Type="CT_RAW" Source="FF949FA7" />
       </Color>
       <Color Name="regex - character class">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -254,11 +254,11 @@
       </Color>
       <Color Name="regex - anchor">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF979AE" />
+        <Foreground Type="CT_RAW" Source="FF949FA7" />
       </Color>
       <Color Name="regex - quantifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFF979AE" />
+        <Foreground Type="CT_RAW" Source="FF949FA7" />
       </Color>
       <Color Name="regex - grouping">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -278,7 +278,7 @@
       </Color>
       <Color Name="regex - other escape">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFD68F" />
+        <Foreground Type="CT_RAW" Source="FF949FA7" />
       </Color>
       <Color Name="xml literal - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1213,7 +1213,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Regex Matched Selection">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF949FA7" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Template Editor C# Keyword">
