@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="SDGDark (5)" GUID="{1d709302-2167-432b-8e52-1db35f45723f}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="SDGDark (9)" GUID="{5385a04e-8491-49d1-ad6f-c1cb2ba25d00}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF222224" />
@@ -70,7 +70,7 @@
         <Background Type="CT_RAW" Source="FFAAAAAA" />
       </Color>
       <Color Name="Success">
-        <Background Type="CT_RAW" Source="FF008000" />
+        <Background Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="Error">
         <Background Type="CT_RAW" Source="FFFF4040" />
@@ -222,27 +222,27 @@
       </Color>
       <Color Name="xml doc comment - comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="xml doc comment - delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="xml doc comment - entity reference">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="xml doc comment - processing instruction">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="xml doc comment - text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="regex - comment">
         <Background Type="CT_RAW" Source="FF949FA7" />
@@ -298,7 +298,7 @@
       </Color>
       <Color Name="xml literal - comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF608B4E" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="xml literal - delimiter">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -494,11 +494,11 @@
       </Color>
       <Color Name="XML Doc Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="XML Doc Tag">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="CSS Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -506,7 +506,7 @@
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="CSS Selector">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -534,7 +534,7 @@
       </Color>
       <Color Name="HTML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -542,7 +542,7 @@
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF214663" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="HTML Operator">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -562,7 +562,7 @@
       </Color>
       <Color Name="VBScript Comment">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="VBScript Operator">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -602,7 +602,7 @@
       </Color>
       <Color Name="CodeAnalysisCurrentStatementSelection">
         <Background Type="CT_RAW" Source="FF501E00" />
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
+        <Foreground Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
       <Color Name="CodeAnalysisWarningSelection">
         <Background Type="CT_RAW" Source="FF825000" />
@@ -614,7 +614,7 @@
       </Color>
       <Color Name="CodeAnalysisLineTraceSelection">
         <Background Type="CT_RAW" Source="FF333333" />
-        <Foreground Type="CT_RAW" Source="FF333333" />
+        <Foreground Type="CT_RAW" Source="FF145E7C" />
       </Color>
       <Color Name="OverviewMarginCollapsedRegion">
         <Background Type="CT_RAW" Source="FFDCDCDC" />
@@ -669,7 +669,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_RAW" Source="FF48830E" />
+        <Background Type="CT_RAW" Source="FF325A75" />
         <Foreground Type="CT_RAW" Source="FFC0D3AD" />
       </Color>
       <Color Name="RenameTrackingTag">
@@ -698,7 +698,7 @@
       </Color>
       <Color Name="RoslynRenameFixupTag">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FF008A00" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="RoslynRenameFieldBackgroundAndBorderTag">
         <Background Type="CT_RAW" Source="FFD3F8D3" />
@@ -718,11 +718,11 @@
       </Color>
       <Color Name="RazorTagHelperAttribute">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF001F40" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="RazorTagHelperElement">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF001F40" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="HtmlClientTemplateValueFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -802,7 +802,7 @@
       </Color>
       <Color Name="U-SQL - Comment">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="U-SQL - Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -821,27 +821,27 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Test Summary - Default">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Test Summary - Header">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Test Summary - Label">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Test Summary - Stack">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
+        <Foreground Type="CT_RAW" Source="FF145E7C" />
       </Color>
       <Color Name="Test Summary - No Source">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScrollBarComment">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF325A75" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/FilteredScrollBarComment">
@@ -858,7 +858,7 @@
       </Color>
       <Color Name="Interactive Window Error Output">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightVariableFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -886,7 +886,7 @@
       </Color>
       <Color Name="FSharp.Disposable">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF02B72B" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="HtmlClientTemplateSeparatorFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -894,7 +894,7 @@
       </Color>
       <Color Name="HtmlClientTemplateTagFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF006400" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="UnnecessaryCode">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -910,7 +910,7 @@
       </Color>
       <Color Name="Inline Rename Field Text">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
-        <Foreground Type="CT_RAW" Source="FF006400" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -986,314 +986,314 @@
       </Color>
       <Color Name="axml - attribute name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="axml - attribute value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF76A2B8" />
       </Color>
       <Color Name="axml - entity reference">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="CppMacroSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD2EBFB" />
       </Color>
       <Color Name="CppLocalVariableSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFB5D1E2" />
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="CppRefTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="CppValueTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="CppClassTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="CppGenericTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF76A2B8" />
       </Color>
       <Color Name="Python class">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="Python builtin">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF76A2B8" />
       </Color>
       <Color Name="Python regex">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="Python Interactive - Blue">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD2EBFB" />
       </Color>
       <Color Name="Python Interactive - Cyan">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="Python Interactive - DarkCyan">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="dotCover_CoveredStatementFormatDefinition">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF325A75" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Stack Trace Method">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper Stack Trace Path">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper Warning">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper Parameter Name Hint">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2C2F3D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Function Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper Static Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper Operator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper Matched Format String Item">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF001F40" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Matched Brace">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Context Exit">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Usage of element under cursor">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Injected Language Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF76A2B8" />
       </Color>
       <Color Name="ReSharper Highlight">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper C++ Typedef Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="ReSharper C++ Overloaded Operator Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="ReSharper C++ Class Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="ReSharper C++ Struct Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="ReSharper C++ Enum Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="ReSharper C++ Union Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="ReSharper IL Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF76A2B8" />
       </Color>
       <Color Name="ReSharper IL Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper IL Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper IL Viewer synchronization">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2C2F3D" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper C# Accessor Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper C# Static Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper C# Extension Method Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper C# Overloaded Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper C# Local Function Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper Todo Item Edit">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF597D95" />
       </Color>
       <Color Name="ReSharper Todo Item Edit Marker on Error Stripe">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF597D95" />
       </Color>
       <Color Name="ReSharper Todo Item Normal">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF597D95" />
       </Color>
       <Color Name="ReSharper Todo Item Normal Marker on Error Stripe">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF597D95" />
       </Color>
       <Color Name="ReSharper Todo Item Question">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF597D95" />
       </Color>
       <Color Name="ReSharper Todo Item Question Marker on Error Stripe">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF597D95" />
       </Color>
       <Color Name="ReSharper Todo Item Hyperlink">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF76A2B8" />
       </Color>
       <Color Name="ReSharper HTML Fallback Attribute Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper HTML Fallback Element Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF76A2B8" />
       </Color>
       <Color Name="ReSharper Regex Matched Selection">
-        <Background Type="CT_RAW" Source="FF949FA7" />
+        <Background Type="CT_RAW" Source="FF325A75" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Template Editor C# Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper Search with Pattern Editor Template Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper Debugger DataTip">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2D2D30" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper JavaScript Function Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper JavaScript Local Function Identifier">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFB5D1E2" />
       </Color>
       <Color Name="ReSharper JsDoc Type Annotation Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD2EBFB" />
       </Color>
       <Color Name="ReSharper CSS value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper CSS keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper CSS id selector">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper CSS function">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper HTML ID attribute">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper Template Editor JavaScript Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper Template Editor HTML Tag">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="ReSharper Template Editor CSS Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA7C4D6" />
       </Color>
       <Color Name="C/C++ User Keywords">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF76A2B8" />
       </Color>
       <Color Name="ReSharper Hyperlink">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper Inplace Format Dark">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ReSharper Stack Trace Hyperlink">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="vsvim_controlchar">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF044965" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="vsvim_secondarycaret">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF325A75" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
@@ -1773,7 +1773,7 @@
         <Background Type="CT_RAW" Source="FF45809A" />
       </Color>
       <Color Name="UnparsedValue">
-        <Background Type="CT_RAW" Source="FFFF0000" />
+        <Background Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
       <Color Name="TimelineDurationBarParent">
         <Background Type="CT_RAW" Source="FFA6A6A6" />
@@ -1898,7 +1898,7 @@
         <Foreground Type="CT_RAW" Source="FF80A1B6" />
       </Color>
       <Color Name="LivePropertyExplorerResourceReference">
-        <Background Type="CT_RAW" Source="FF1CA11C" />
+        <Background Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ArtboardBackgroundDefault">
         <Background Type="CT_RAW" Source="FF1C1C1C" />
@@ -1967,7 +1967,7 @@
         <Background Type="CT_RAW" Source="FF555555" />
       </Color>
       <Color Name="SnapshotTileErrorText">
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
+        <Foreground Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
       <Color Name="SnapshotTileHeader">
         <Background Type="CT_RAW" Source="FF2D2D30" />
@@ -2009,7 +2009,7 @@
         <Background Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="SelectedBackgroundColor">
-        <Background Type="CT_RAW" Source="FF3213F0" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
       </Color>
       <Color Name="SelectedText">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -2905,7 +2905,7 @@
         <Background Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="JobGraphSucceed">
-        <Background Type="CT_RAW" Source="FF2F843F" />
+        <Background Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="JobGraphRunning">
         <Background Type="CT_RAW" Source="FF3A617C" />
@@ -3003,7 +3003,7 @@
         <Foreground Type="CT_RAW" Source="FFFF8080" />
       </Color>
       <Color Name="ValidationOKForeground">
-        <Foreground Type="CT_RAW" Source="FF32FF32" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ScriptText">
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
@@ -3012,7 +3012,7 @@
         <Foreground Type="CT_RAW" Source="FF32D0FF" />
       </Color>
       <Color Name="ScriptComment">
-        <Foreground Type="CT_RAW" Source="FF32FF32" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ScriptIdentifier">
         <Foreground Type="CT_RAW" Source="FFD0D000" />
@@ -3062,7 +3062,7 @@
         <Foreground Type="CT_RAW" Source="FF8080FF" />
       </Color>
       <Color Name="HeatMapAverageNegative3SD">
-        <Background Type="CT_RAW" Source="FF192035" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
       </Color>
       <Color Name="HeatMapAverageNegative2SD">
         <Background Type="CT_RAW" Source="FF364E6F" />
@@ -3156,7 +3156,7 @@
         <Background Type="CT_RAW" Source="FFC076F5" />
       </Color>
       <Color Name="DataFlowGraphSucceed">
-        <Background Type="CT_RAW" Source="FF2F843F" />
+        <Background Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="DataFlowGraphDataUnavailable">
         <Background Type="CT_RAW" Source="FF464646" />
@@ -3174,7 +3174,7 @@
         <Background Type="CT_RAW" Source="FFFF00FF" />
       </Color>
       <Color Name="ScriptHighlightWord">
-        <Background Type="CT_RAW" Source="FF113352" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
       </Color>
       <Color Name="AUAnalysisClickableCardBorder">
         <Background Type="CT_RAW" Source="FF325A75" />
@@ -3532,7 +3532,7 @@
         <Background Type="CT_RAW" Source="FFDDD6EF" />
       </Color>
       <Color Name="ClassDesignerFieldAssociation">
-        <Background Type="CT_RAW" Source="FF5D8039" />
+        <Background Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="ClassDesignerGradientEnd">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -3586,7 +3586,7 @@
         <Background Type="CT_RAW" Source="FFD6ECEF" />
       </Color>
       <Color Name="ClassDesignerUnresolvedText">
-        <Background Type="CT_RAW" Source="FFFF0000" />
+        <Background Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
       <Color Name="ClassDesignerVBModuleCompartment">
         <Background Type="CT_RAW" Source="FFF8F4E9" />
@@ -4559,7 +4559,7 @@
         <Background Type="CT_RAW" Source="FFE2E2E3" />
       </Color>
       <Color Name="HelpSearchProviderUnselectedText">
-        <Background Type="CT_RAW" Source="FF192035" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
       </Color>
       <Color Name="HelpSearchProviderSelectedBackground">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -6045,10 +6045,10 @@
         <Background Type="CT_RAW" Source="FFE5EBF1" />
       </Color>
       <Color Name="PluginFontConsoleErrorColor">
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
+        <Foreground Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
       <Color Name="PluginFontConsoleInfoColor">
-        <Foreground Type="CT_RAW" Source="FF006400" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="PluginFontConsoleInputColor">
         <Foreground Type="CT_RAW" Source="FF325A75" />
@@ -6060,10 +6060,10 @@
         <Foreground Type="CT_RAW" Source="FF963A46" />
       </Color>
       <Color Name="PluginFontEditorCommentColor">
-        <Foreground Type="CT_RAW" Source="FF006400" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="PluginFontEditorCssNameColor">
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
+        <Foreground Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
       <Color Name="PluginFontEditorCssSelectorColor">
         <Foreground Type="CT_RAW" Source="FF880000" />
@@ -6078,7 +6078,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="PluginFontEditorHtmlAttributeNameColor">
-        <Foreground Type="CT_RAW" Source="FFFF0000" />
+        <Foreground Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
       <Color Name="PluginFontEditorHtmlAttributeValueColor">
         <Foreground Type="CT_RAW" Source="FF325A75" />
@@ -6090,7 +6090,7 @@
         <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="PluginFontEditorIdentifierColor">
-        <Foreground Type="CT_RAW" Source="FF001F40" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="PluginFontEditorInstructionPointerBackgroundColor">
         <Background Type="CT_RAW" Source="FFFFEE62" />
@@ -6185,7 +6185,7 @@
     </Category>
     <Category Name="NavigateTo" GUID="{d58e4793-9fe6-450b-b200-b93a3c17aa12}">
       <Color Name="ResultListItem">
-        <Background Type="CT_RAW" Source="FF113352" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="ResultListItemDescriptionText">
@@ -7655,7 +7655,7 @@
       </Color>
       <Color Name="XML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="Memory Changed">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7723,7 +7723,7 @@
       </Color>
       <Color Name="XAML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF57A64A" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
       </Color>
       <Color Name="XAML Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7907,7 +7907,7 @@
       </Color>
       <Color Name="Warning Lines Path">
         <Background Type="CT_RAW" Source="FFB5CEA8" />
-        <Foreground Type="CT_RAW" Source="FF192035" />
+        <Foreground Type="CT_RAW" Source="FF145E7C" />
       </Color>
       <Color Name="Refactoring Background">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -9019,7 +9019,7 @@
         <Foreground Type="CT_RAW" Source="FFA6A6A6" />
       </Color>
       <Color Name="ErrorControlBorder">
-        <Background Type="CT_RAW" Source="FFFF0000" />
+        <Background Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
       <Color Name="Form">
         <Background Type="CT_RAW" Source="FF333333" />
@@ -9168,7 +9168,7 @@
     </Category>
     <Category Name="CallStack" GUID="{fd2219af-ebf8-4116-a801-3b503c48dff0}">
       <Color Name="Text">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SelectedText">
@@ -9260,7 +9260,7 @@
     </Category>
     <Category Name="DebugLocation" GUID="{b20c0001-0836-4535-a5e8-96e595b1f094}">
       <Color Name="Text">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SelectedText">
@@ -9269,7 +9269,7 @@
       </Color>
       <Color Name="ChangedText">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
     </Category>
     <Category Name="Dialogs and Tool Windows" GUID="{1f987c00-e7c4-4869-8a17-23fd602268b0}">
@@ -9313,12 +9313,12 @@
       </Color>
       <Color Name="ChangedText">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDC2E2E" />
       </Color>
     </Category>
     <Category Name="Threads" GUID="{bb8fe807-a186-404a-81fa-d20b908ca93b}">
       <Color Name="Text">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF145E7C" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="SelectedText">
@@ -9330,6 +9330,409 @@
       <Color Name="Artboard Background">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+    </Category>
+    <Category Name="GraphicsDesigners" GUID="{9cfdb8b3-48aa-4715-ac38-dde2968d204f}">
+      <Color Name="ColorInputPortBase">
+        <Background Type="CT_RAW" Source="FF06102C" />
+      </Color>
+      <Color Name="ColorZAxis">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="ColorBackgroundGradientStart">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="ColorBackgroundGradientEnd">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="ColorLassoRectangle">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="ColorLassoOutline">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="ColorBlueChannel">
+        <Background Type="CT_RAW" Source="FF06102C" />
+      </Color>
+      <Color Name="ColorLinkLiveHighlight">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="ColorVertexNormals">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="ColorAdditionalSelectedWireframe">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="InactiveSelectedBackgroundColor">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="MouseOverBackgroundColor">
+        <Background Type="CT_RAW" Source="FF4C4C4D" />
+      </Color>
+      <Color Name="DetailPane">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="FocusDots">
+        <Foreground Type="CT_RAW" Source="FF4C4C4D" />
+      </Color>
+      <Color Name="GridColumnSizer">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="GridHeaderHover">
+        <Background Type="CT_RAW" Source="FF4C4C4D" />
+      </Color>
+      <Color Name="Menu">
+        <Background Type="CT_RAW" Source="FF171719" />
+      </Color>
+      <Color Name="MenuBorder">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="MenuHover">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="Splitter">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="NetworkHeaderBackground">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="DropDownButton">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="DropDownButtonHover">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="SnapshotButton">
+        <Background Type="CT_RAW" Source="FF171719" />
+      </Color>
+      <Color Name="SnapshotButtonActive">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="SnapshotButtonBorderHover">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="SnapshotButtonDisabled">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="SnapshotButtonDisabledText">
+        <Foreground Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="SnapshotButtonHover">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Foreground Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="SnapshotDiffModifiedText">
+        <Foreground Type="CT_RAW" Source="FF80A1B6" />
+      </Color>
+      <Color Name="SnapshotMessagesBorder">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="SnapshotTile">
+        <Background Type="CT_RAW" Source="FF171719" />
+      </Color>
+      <Color Name="SnapshotTileHeader">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="TabHeader">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="TabHover">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+    </Category>
+    <Category Name="ReSharper" GUID="{b7f08e34-ad23-4855-9daf-f1cf808a7c72}">
+      <Color Name="LookupMatchedTextForeground">
+        <Foreground Type="CT_RAW" Source="FF325A75" />
+      </Color>
+    </Category>
+    <Category Name="DataGrid" GUID="{925b1226-26e5-47e0-9d0d-673301e557fb}">
+      <Color Name="HeaderBackground">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="RowBackground">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="HeaderMouseOver">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="HeaderMouseOverBorder">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="GridLine">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+    </Category>
+    <Category Name="GraphDocumentColors" GUID="{0cd5aa2b-ef23-4997-80b5-7d0e8fe5b312}">
+      <Color Name="NoShapeSelectionStartColor">
+        <Background Type="CT_RAW" Source="FFC4DEEF" />
+      </Color>
+      <Color Name="NoShapeSelectionBorder">
+        <Background Type="CT_RAW" Source="FF80A1B6" />
+      </Color>
+      <Color Name="NoShapeSelectionEndColor">
+        <Background Type="CT_RAW" Source="FFC4DEEF" />
+      </Color>
+      <Color Name="LegendBackgroundColor">
+        <Background Type="CT_RAW" Source="A02D2D30" />
+      </Color>
+      <Color Name="LegendMouseOverBackgroundColor">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="LegendBorderBrush">
+        <Background Type="CT_RAW" Source="A02D2D30" />
+      </Color>
+      <Color Name="ProgressBarColor">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="GraphHyperlinkColor">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+    </Category>
+    <Category Name="TabbedDesigner" GUID="{35e33be4-027b-40b5-83a3-c10540994010}">
+      <Color Name="DescriptionPane">
+        <Background Type="CT_RAW" Source="FF4C4C4D" />
+      </Color>
+      <Color Name="TabActive">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="TabInactive">
+        <Background Type="CT_RAW" Source="FF4C4C4D" />
+      </Color>
+      <Color Name="TabMouseOver">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="Watermark">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="TextBoxBackground">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="TextBoxBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="TextBoxDisabled">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="TextBoxDisabledBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="TextBoxFocused">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="TextBoxMouseOverBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="CheckboxBackground">
+        <Background Type="CT_RAW" Source="FF2C2F3D" />
+      </Color>
+      <Color Name="CheckboxMouseOver">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="ComboBoxBackground">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="ComboBoxBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="ComboBoxButtonMouseDownBackground">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="ComboBoxButtonMouseDownSeparator">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="ComboBoxButtonMouseOverBackground">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="ComboBoxButtonMouseOverSeparator">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="ComboBoxDisabledBackground">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="ComboBoxDisabledBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="ComboBoxDisabledGlyph">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="ComboBoxMouseDownBackground">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="ComboBoxMouseDownBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="ComboBoxMouseOverBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="ComboBoxMouseOverGlyph">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="ComboBoxPopupBorder">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="ComboBoxSelection">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="DropDownBackground">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="DropDownBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="DropDownButtonMouseDownBackground">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="DropDownButtonMouseDownSeparator">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="DropDownButtonMouseOverBackground">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="DropDownButtonMouseOverSeparator">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="DropDownDisabledBackground">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="DropDownDisabledBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="DropDownDisabledGlyph">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="DropDownMouseDownBackground">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="DropDownMouseDownBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="DropDownMouseOverBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="DropDownMouseOverGlyph">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="DropDownPopupBorder">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="ComboBoxMouseOverBackground">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="ComboBoxPopupBackground">
+        <Background Type="CT_RAW" Source="FF171719" />
+      </Color>
+      <Color Name="DropDownMouseOverBackground">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="DropDownPopupBackground">
+        <Background Type="CT_RAW" Source="FF171719" />
+      </Color>
+      <Color Name="ListBackground">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="SectionControlHeaderBackground">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="SectionControlBackground">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="TreeViewBackground">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+      <Color Name="TabDisabled">
+        <Background Type="CT_RAW" Source="FF4C4C4D" />
+      </Color>
+      <Color Name="TabHeaderFocused">
+        <Background Type="CT_RAW" Source="FF222224" />
+      </Color>
+    </Category>
+    <Category Name="WorkflowDesigner" GUID="{e0f1945b-b965-47dc-b22e-3e26a895c895}">
+      <Color Name="WorkflowViewElementSelectedBorder">
+        <Background Type="CT_RAW" Source="FFA7C4D6" />
+      </Color>
+      <Color Name="AnnotationDockButtonHoverBorder">
+        <Background Type="CT_RAW" Source="FFA7C4D6" />
+      </Color>
+      <Color Name="DesignerViewShellBarCaption">
+        <Background Type="CT_RAW" Source="FF59595B" />
+      </Color>
+      <Color Name="DesignerViewShellBarColorGradientBegin">
+        <Background Type="CT_RAW" Source="FFE8E8E9" />
+      </Color>
+      <Color Name="DesignerViewShellBarColorGradientEnd">
+        <Background Type="CT_RAW" Source="FFE8E8E9" />
+      </Color>
+      <Color Name="DesignerViewShellBarControlBackground">
+        <Background Type="CT_RAW" Source="FFE8E8E9" />
+      </Color>
+      <Color Name="DesignerViewShellBarSelectedColorGradientBegin">
+        <Background Type="CT_RAW" Source="FFC4DEEF" />
+      </Color>
+      <Color Name="DesignerViewShellBarSelectedColorGradientEnd">
+        <Background Type="CT_RAW" Source="FFC4DEEF" />
+      </Color>
+      <Color Name="DesignerViewStatusBarBackground">
+        <Background Type="CT_RAW" Source="FFC1C1C2" />
+      </Color>
+      <Color Name="GridViewRowHover">
+        <Background Type="CT_RAW" Source="FFE8E8E9" />
+      </Color>
+      <Color Name="TreeViewCollapsedArrowBorder">
+        <Background Type="CT_RAW" Source="FFD2D2D3" />
+      </Color>
+      <Color Name="TreeViewCollapsedArrowHoverBorder">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="TreeViewExpandedArrowBorder">
+        <Background Type="CT_RAW" Source="FFD2D2D3" />
+      </Color>
+      <Color Name="TreeViewExpandedArrow">
+        <Background Type="CT_RAW" Source="FFD2D2D3" />
+      </Color>
+      <Color Name="TreeViewItemHighlightBackground">
+        <Background Type="CT_RAW" Source="FFA7C4D6" />
+      </Color>
+      <Color Name="TreeViewItemText">
+        <Background Type="CT_RAW" Source="FFD2D2D3" />
+      </Color>
+      <Color Name="WorkflowViewElementBorder">
+        <Background Type="CT_RAW" Source="FFB7B7C6" />
+      </Color>
+      <Color Name="WorkflowViewElementSelectedBackground">
+        <Background Type="CT_RAW" Source="FFC4DEEF" />
+      </Color>
+      <Color Name="PropertyInspectorSelectedBackground">
+        <Background Type="CT_RAW" Source="FF325A75" />
+      </Color>
+      <Color Name="PropertyInspectorToolBarItemSelectedBorder">
+        <Background Type="CT_RAW" Source="FF145E7C" />
+      </Color>
+      <Color Name="PropertyInspectorToolBarItemSelectedBackground">
+        <Background Type="CT_RAW" Source="FFD2D2D3" />
+      </Color>
+      <Color Name="PropertyInspectorToolBarSeparator">
+        <Background Type="CT_RAW" Source="FFD2D2D3" />
+      </Color>
+      <Color Name="PropertyInspectorToolBarItemHoverBackground">
+        <Background Type="CT_RAW" Source="FFE8E8E9" />
+      </Color>
+      <Color Name="PropertyInspectorToolBarItemHoverBorder">
+        <Background Type="CT_RAW" Source="FFE8E8E9" />
+      </Color>
+      <Color Name="PropertyInspectorToolBarBackground">
+        <Background Type="CT_RAW" Source="FFD2D2D3" />
+      </Color>
+      <Color Name="PropertyInspectorText">
+        <Background Type="CT_RAW" Source="FF59595B" />
+      </Color>
+      <Color Name="PropertyInspectorBackground">
+        <Background Type="CT_RAW" Source="FFE8E8E9" />
+      </Color>
+      <Color Name="PropertyInspectorPane">
+        <Background Type="CT_RAW" Source="FFD2D2D3" />
+      </Color>
+      <Color Name="PropertyInspectorCategoryCaptionText">
+        <Background Type="CT_RAW" Source="FF59595B" />
       </Color>
     </Category>
   </Theme>
